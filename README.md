@@ -37,7 +37,7 @@ I'm a student from Germany. I'm expecting to graduate in 2024.
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
 </div>
 
-### ... I actually use:
+### ... I actually use (publicly):
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucktnich&layout=compact&theme=vision-friendly-dark)
 
 ## 🔥 My stats
