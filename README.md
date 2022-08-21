@@ -34,7 +34,8 @@ I'm a student from Germany. I'm expecting to graduate in 2024.
 
 ### ... I’m interested in (and maybe a bit of knowledge):
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" title="Deno" alt="Deno" width="40" height="40"/>
 </div>
 
 ### ... I actually use (publicly):
