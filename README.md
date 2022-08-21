@@ -39,3 +39,6 @@ I'm a student from Germany. I'm expecting to graduate in 2024.
 
 ### ... I actually use:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucktnich&layout=compact&theme=vision-friendly-dark)
+
+## 🔥 My stats
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jucktnich&theme=dark&background=000000)
