@@ -32,13 +32,13 @@ I'm a student from Germany. I'm expecting to graduate in 2024.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
-### ... I’m interested in (and maybe a bit of knowledge):
+### ... i’m interested in (and maybe a bit of knowledge):
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/denojs/denojs-original.svg" title="Deno" alt="Deno" width="40" height="40"/>
 </div>
 
-### ... I actually use (publicly):
+### ... i actually use (publicly):
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucktnich&layout=compact&theme=vision-friendly-dark)
 
 ## 🔥 My stats
