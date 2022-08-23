@@ -42,4 +42,5 @@ I'm a student from Germany. I'm expecting to graduate in 2024.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jucktnich&layout=compact&theme=vision-friendly-dark)
 
 ## 🔥 My stats
+![My github stats](https://github-readme-stats.vercel.app/api?username=jucktnich&theme=dark)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jucktnich&theme=dark&background=000000)
